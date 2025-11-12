@@ -86,3 +86,5 @@ A management tool of choice can be used to deploy the above configuration. Pleas
 
 [!INCLUDE [Microsoft Defender for Endpoint Tech Community](../includes/defender-mde-techcommunity.md)]
 
+In the MDE Linux script, the configuration is set to read the localconfig.json file for Azure Arc.
+
